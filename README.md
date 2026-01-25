@@ -28,10 +28,10 @@ Continuously improving my technical knowledge in networking, SIEM tools, and sec
 
 ## 🧰 Tools & Technologies I Use
 
-Security Tools: Wireshark, Splunk, LetsDefend Labs
-Networking & Analysis: Nmap, TCPDump, Security Onion
-Programming: Python (for automation & data analysis)
-OS: Linux (Ubuntu/Kali), Windows
+• Security Tools: Wireshark, Splunk, LetsDefend Labs
+• Networking & Analysis: Nmap, TCPDump, Security Onion
+• Programming: Python (for automation & data analysis)
+• OS: Linux (Ubuntu/Kali), Windows
 
 ## 📫 How to Reach Me
 💼 LinkedIn: https://www.linkedin.com/in/divya-rana-cs/
