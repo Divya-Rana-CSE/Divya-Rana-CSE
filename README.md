@@ -20,12 +20,6 @@ I’m a B.Tech CSE student passionate about cybersecurity and SOC operations.
 
 Exploring the world of threat detection, digital forensics, and incident response, and constantly learning how to defend systems from real-world attacks.
 
-Building hands-on skills through SOC labs and challenges on platforms like LetsDefend.
-
-Learning how to analyze alerts, investigate incidents, and understand attacker behaviors.
-
-Continuously improving my technical knowledge in networking, SIEM tools, and security fundamentals.
-
 ## 🎯 Currently 
 - Building hands-on SOC skills through labs on [LetsDefend](https://app.letsdefend.io)  
 - Strengthening my fundamentals in **networking**, **SIEM tools**, and **security operations**
