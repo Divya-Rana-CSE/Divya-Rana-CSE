@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 👋 Hi, I'm Divya Rana
+## 👋 Hi, I'm Divya Rana
 
 I’m a B.Tech CSE student passionate about cybersecurity and SOC operations.
 
@@ -26,13 +26,12 @@ Learning how to analyze alerts, investigate incidents, and understand attacker b
 
 Continuously improving my technical knowledge in networking, SIEM tools, and security fundamentals.
 
+## 🎯 Currently 
+- Building hands-on SOC skills through labs on [LetsDefend](https://app.letsdefend.io)  
+- Strengthening my fundamentals in **networking**, **SIEM tools**, and **security operations**
+- Performing log analysis, network traffic inspection, and malware investigation
+
 ## 🧰 Tools & Technologies I Use
-<!--
-• **Security Tools:** Wireshark, Splunk, LetsDefend Labs
-• **Networking & Analysis:** Nmap, TCPDump, Security Onion
-• **Programming:** Python (for automation & data analysis)
-• **OS:** Linux (Ubuntu/Kali), Windows
--->
 | Category | Tools |
 |-----------|--------|
 | **Security Tools** | Wireshark, Splunk, LetsDefend Labs |
@@ -42,3 +41,5 @@ Continuously improving my technical knowledge in networking, SIEM tools, and sec
 
 ## 📫 How to Reach Me
 💼 LinkedIn: https://www.linkedin.com/in/divya-rana-cs/
+
+💬 *Always eager to connect, collaborate, and grow in the cybersecurity community.*
