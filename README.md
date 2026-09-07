@@ -90,9 +90,21 @@ Developing practical SOC skills through hands-on labs involving:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Divya-Rana-CSE&show_icons=true&hide_border=true&theme=transparent" height="160">
+<a href="https://github.com/Divya-Rana-CSE">
+<img src="https://img.shields.io/github/followers/Divya-Rana-CSE?label=Followers&style=flat-square" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divya-Rana-CSE&layout=compact&hide_border=true&theme=transparent" height="160">
+&nbsp;
+
+<a href="https://github.com/Divya-Rana-CSE?tab=repositories">
+<img src="https://img.shields.io/github/stars/Divya-Rana-CSE?label=Stars&style=flat-square" />
+</a>
+
+&nbsp;
+
+<a href="https://github.com/Divya-Rana-CSE?tab=repositories">
+<img src="https://img.shields.io/github/repositories/Divya-Rana-CSE?label=Repositories&style=flat-square" />
+</a>
 
 </div>
 
